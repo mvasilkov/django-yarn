@@ -1,0 +1,19 @@
+{
+  "name": "django-yarn-demo",
+  "version": "1.0.0",
+  "description": "Use Facebook's Yarn package manager with Django.",
+  "main": "manage.py",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mvasilkov/django-yarn.git"
+  },
+  "author": "Mark Vasilkov <mvasilkov@gmail.com> (http://mvasilkov.ovh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvasilkov/django-yarn/issues"
+  },
+  "homepage": "https://github.com/mvasilkov/django-yarn#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.4"
+  }
+}

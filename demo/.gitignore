@@ -1,0 +1,4 @@
+node_modules/
+static/
+virtual/
+db.sqlite3
