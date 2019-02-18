@@ -4,7 +4,7 @@ if __name__ == '__main__':
     setup(
         name='django-yarn',
 
-        version='0.0.1',
+        version='0.0.2',
 
         description='Use Facebook\'s Yarn package manager with Django.',
         long_description='Use Facebook\'s Yarn package manager with Django.',
